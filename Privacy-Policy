@@ -1,90 +1,85 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="id">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Privacy Policy - RentEase</title>
+  <title>Kebijakan Privasi - RentEase</title>
   <style>
     body {
-      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-      padding: 1em;
+      font-family: Arial, sans-serif;
+      margin: 2em;
       line-height: 1.6;
       max-width: 800px;
-      margin: auto;
     }
-    h1, h2, strong {
-      color: #333;
+    h1, h2 {
+      color: #2c3e50;
     }
-    a {
-      color: #1a0dab;
-      text-decoration: none;
+    h1 {
+      font-size: 2em;
+      margin-bottom: 0.2em;
     }
-    a:hover {
-      text-decoration: underline;
+    p {
+      margin: 1em 0;
     }
   </style>
 </head>
 <body>
 
-  <h1>Privacy Policy</h1>
+  <h1>Kebijakan Privasi – RentEase</h1>
+  <p><strong>Tanggal Berlaku:</strong> 4 Juni 2025</p>
+  <p><strong>Developer:</strong> RentEase Team</p>
 
-  <p>This privacy policy applies to the RentEase app (hereby referred to as "Application") for mobile devices that was created by Rent Ease (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".</p>
-
-  <h2>Information Collection and Use</h2>
-
-  <p>The Application collects information when you download and use it. This information may include:</p>
+  <h2>1. Informasi yang Kami Kumpulkan</h2>
+  <p>Kami dapat mengumpulkan informasi berikut:</p>
   <ul>
-    <li>Your device's Internet Protocol address (e.g., IP address)</li>
-    <li>The pages of the Application that you visit, the time and date of your visit, the time spent on those pages</li>
-    <li>The operating system you use on your mobile device</li>
+    <li><strong>Informasi Pribadi:</strong> Nama, email, nomor telepon, dan alamat saat pengguna membuat akun atau menyewa/menyewakan barang.</li>
+    <li><strong>Informasi Lokasi:</strong> Jika Anda mengaktifkan layanan lokasi, kami dapat menggunakan data tersebut untuk menampilkan item terdekat.</li>
+    <li><strong>Informasi Transaksi:</strong> Rincian sewa/penyewaan barang, pembayaran, dan riwayat transaksi.</li>
+    <li><strong>Data Perangkat:</strong> Informasi perangkat seperti sistem operasi, versi aplikasi, dan alamat IP.</li>
   </ul>
 
-  <p>The Application does not gather precise information about the location of your mobile device.</p>
-
-  <p>The Service Provider may use the information you provide to contact you occasionally with important notices and promotional content.</p>
-
-  <p>For a better experience, the Application may request personally identifiable information such as your email address (e.g., rentease@gmail.com). This information is retained and used in accordance with this Privacy Policy.</p>
-
-  <h2>Third Party Access</h2>
-
-  <p>Only aggregated, anonymized data is periodically transmitted to external services to improve the Application and services.</p>
-
-  <p>The Application may share data with third-party services whose privacy policies you can find below:</p>
+  <h2>2. Penggunaan Informasi</h2>
+  <p>Informasi yang kami kumpulkan digunakan untuk:</p>
   <ul>
-    <li><a href="https://www.google.com/policies/privacy/" target="_blank" rel="noopener noreferrer">Google Play Services</a></li>
+    <li>Memproses transaksi sewa/penyewaan.</li>
+    <li>Menyediakan fitur dan layanan aplikasi.</li>
+    <li>Menghubungkan pengguna (penyewa & pemilik barang).</li>
+    <li>Mengirimkan notifikasi penting terkait transaksi.</li>
+    <li>Meningkatkan keamanan dan kinerja aplikasi.</li>
   </ul>
 
-  <h2>Disclosure of Data</h2>
-  <p>Your data may be disclosed under the following circumstances:</p>
+  <h2>3. Pembagian Informasi</h2>
+  <p>Kami <strong>tidak menjual</strong> informasi pribadi Anda. Informasi dapat dibagikan kepada pihak ketiga hanya jika:</p>
   <ul>
-    <li>As required by law</li>
-    <li>To protect rights and safety</li>
-    <li>To trusted service providers who process data on behalf of the Service Provider</li>
+    <li>Diperlukan untuk menyelesaikan transaksi (misalnya layanan pembayaran).</li>
+    <li>Diminta oleh hukum, perintah pengadilan, atau proses hukum yang sah.</li>
+    <li>Untuk mencegah penipuan, pelanggaran hukum, atau ancaman keamanan.</li>
   </ul>
 
-  <h2>Opt-Out Rights</h2>
-  <p>You can stop all collection of information by uninstalling the Application using standard uninstall procedures available on your device.</p>
+  <h2>4. Keamanan Informasi</h2>
+  <p>Kami menggunakan enkripsi, autentikasi, dan prosedur keamanan lainnya untuk menjaga informasi Anda tetap aman. Namun, tidak ada metode transmisi data yang 100% aman.</p>
 
-  <h2>Data Retention Policy</h2>
-  <p>The Service Provider will retain user-provided data for as long as you use the app and for a reasonable time thereafter. If you wish to delete your data, please contact <a href="mailto:rentease@gmail.com">rentease@gmail.com</a>.</p>
+  <h2>5. Hak Anda</h2>
+  <p>Anda memiliki hak untuk:</p>
+  <ul>
+    <li>Mengakses dan memperbarui informasi pribadi Anda.</li>
+    <li>Meminta penghapusan akun dan data Anda.</li>
+    <li>Menolak penggunaan data Anda untuk tujuan pemasaran (jika berlaku).</li>
+  </ul>
 
-  <h2>Children's Privacy</h2>
-  <p>The Application is not intended for children under 13 and does not knowingly collect their data. If discovered, such data will be deleted immediately. Parents or guardians can contact <a href="mailto:rentease@gmail.com">rentease@gmail.com</a> for action.</p>
+  <h2>6. Data Anak-anak</h2>
+  <p>RentEase tidak ditujukan untuk anak-anak di bawah usia 13 tahun. Kami tidak secara sadar mengumpulkan data dari anak-anak.</p>
 
-  <h2>Security</h2>
-  <p>The Service Provider uses physical, electronic, and procedural safeguards to protect your information.</p>
+  <h2>7. Perubahan Kebijakan</h2>
+  <p>Kami dapat memperbarui kebijakan ini dari waktu ke waktu. Setiap perubahan akan diumumkan melalui aplikasi atau email.</p>
 
-  <h2>Changes</h2>
-  <p>This Privacy Policy may be updated from time to time. Continued use of the Application implies agreement to the changes. Effective date: 2025-06-04.</p>
-
-  <h2>Your Consent</h2>
-  <p>By using the Application, you consent to the processing of your information as outlined in this Privacy Policy.</p>
-
-  <h2>Contact Us</h2>
-  <p>If you have any questions about this Privacy Policy, please contact <a href="mailto:rentease@gmail.com">rentease@gmail.com</a>.</p>
-
-  <hr>
-  <p>This privacy policy was generated by <a href="https://app-privacy-policy-generator.nisrulz.com/" target="_blank" rel="noopener noreferrer">App Privacy Policy Generator</a>.</p>
+  <h2>8. Kontak Kami</h2>
+  <p>Jika Anda memiliki pertanyaan tentang kebijakan privasi ini, silakan hubungi kami di:</p>
+  <ul>
+    <li><strong>Email:</strong> rentease.help@gmail.com</li>
+    <li><strong>Website:</strong> (link situs atau media sosial Anda)</li>
+  </ul>
 
 </body>
 </html>
+
