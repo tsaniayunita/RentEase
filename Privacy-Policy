@@ -77,7 +77,6 @@
   <p>Jika Anda memiliki pertanyaan tentang kebijakan privasi ini, silakan hubungi kami di:</p>
   <ul>
     <li><strong>Email:</strong> rentease.help@gmail.com</li>
-    <li><strong>Website:</strong> (link situs atau media sosial Anda)</li>
   </ul>
 
 </body>
